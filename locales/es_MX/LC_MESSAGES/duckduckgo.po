@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "SERP footer content"
 msgid "%s Billion Searches"
-msgstr ""
+msgstr "%s billones de búsquedas"
 
 msgid "%s blocked by safe search."
 msgstr "%s está bloqueado por una búsqueda segura."
@@ -44,7 +44,7 @@ msgid "%s km"
 msgstr ""
 
 msgid "%s mi"
-msgstr ""
+msgstr "%s millas"
 
 #. This is used to add attribution to user reviews on websites, e.g. "John Doe on Yelp"
 msgctxt "maps_places"
@@ -58,7 +58,7 @@ msgstr "%snos"
 #. Part of the sentence: "Support <b>us.</b>"
 msgctxt "supportus"
 msgid "%s us."
-msgstr "%snos"
+msgstr "%s nos"
 
 #. Part of the sentence: "Use <b>us.</b>"
 msgctxt "useus"
